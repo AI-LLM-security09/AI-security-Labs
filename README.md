@@ -49,4 +49,4 @@ Each lab can be directly accessed and executed in Google Colab. Use the links be
 ---
 
 ## 🚀 About
-This repository is part of the **AI Security Labs** initiative to promote secure and ethical AI practices. Learn more about our mission and other resources on our [website](https://aisecuritylabs.com).
+This repository is part of the **AI Security Labs** initiative to promote secure and ethical AI practices. Learn more about our mission and other resources on our [Course](https://aisecuritylabs.com).
