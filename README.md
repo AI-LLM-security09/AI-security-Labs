@@ -48,20 +48,5 @@ Each lab can be directly accessed and executed in Google Colab. Use the links be
 
 ---
 
-## 🤝 Contributing
-We welcome contributions to improve and expand this repository. If you have suggestions, bug fixes, or additional labs, feel free to create a pull request or open an issue.
-
----
-
-## 📬 Feedback and Support
-If you encounter issues or have questions, please reach out through the **[Issues](https://github.com/AI-LLM-security09/AI-security-Labs/issues)** tab or email us at `support@aisecuritylabs.com`.
-
----
-
 ## 🚀 About
 This repository is part of the **AI Security Labs** initiative to promote secure and ethical AI practices. Learn more about our mission and other resources on our [website](https://aisecuritylabs.com).
-
----
-
-### License
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute with proper attribution.
